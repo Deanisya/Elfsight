@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Elfsight/static/css/main.869ee58a.css",
+    "main.js": "/Elfsight/static/js/main.5a617abd.js",
+    "static/media/green-portal.png": "/Elfsight/static/media/green-portal.a218ca229093de6f08d2.png",
+    "static/media/widget-logo.png": "/Elfsight/static/media/widget-logo.42c8df0b92603ef2e2e2.png",
+    "static/media/male.svg": "/Elfsight/static/media/male.42d01c2c5e1d7025a594642a761f1939.svg",
+    "index.html": "/Elfsight/index.html",
+    "static/media/genderless.svg": "/Elfsight/static/media/genderless.dec799ed2f3cfbb46522c185f9dbb030.svg",
+    "static/media/female.svg": "/Elfsight/static/media/female.02f202d68bdd63c12690625cf6aec3fd.svg",
+    "main.869ee58a.css.map": "/Elfsight/static/css/main.869ee58a.css.map",
+    "main.5a617abd.js.map": "/Elfsight/static/js/main.5a617abd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.869ee58a.css",
+    "static/js/main.5a617abd.js"
+  ]
+}
